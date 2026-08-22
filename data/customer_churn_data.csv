@@ -1,0 +1,21 @@
+customer_id,gender,senior_citizen,tenure_months,partner,dependents,internet_service,online_security,online_backup,contract,monthly_charges,total_charges,paperless_billing,payment_method,churn
+CUST001,Male,0,1,Yes,No,DSL,Yes,No,Month-to-month,29.85,29.85,Yes,Electronic check,Yes
+CUST002,Female,0,34,No,No,DSL,Yes,No,One year,56.95,1889.5,No,Mailed check,No
+CUST003,Female,0,2,Yes,No,DSL,Yes,Yes,Month-to-month,53.85,108.15,Yes,Mailed check,Yes
+CUST004,Female,0,45,No,No,DSL,Yes,Yes,One year,42.3,1840.75,No,Bank transfer (automatic),No
+CUST005,Male,0,2,Yes,No,Fiber optic,No,No,Month-to-month,70.7,151.65,Yes,Electronic check,Yes
+CUST006,Male,0,8,No,No,Fiber optic,No,No,Month-to-month,99.65,820.5,Yes,Electronic check,Yes
+CUST007,Female,0,22,No,Yes,Fiber optic,Yes,No,Month-to-month,89.1,1949.4,No,Credit card (automatic),No
+CUST008,Male,0,10,No,No,DSL,Yes,No,One year,29.75,301.9,No,Mailed check,No
+CUST009,Female,0,28,No,Yes,Fiber optic,Yes,Yes,Month-to-month,104.8,3046.05,Yes,Electronic check,Yes
+CUST010,Female,1,58,No,Yes,Fiber optic,Yes,Yes,Two year,105.5,6110.75,No,Bank transfer (automatic),No
+CUST011,Male,0,15,No,No,DSL,Yes,No,One year,49.95,743.5,No,Credit card (automatic),No
+CUST012,Female,0,4,Yes,No,Fiber optic,No,No,Month-to-month,85.7,354.5,Yes,Electronic check,Yes
+CUST013,Male,0,72,No,Yes,DSL,Yes,Yes,Two year,39.65,2841.2,No,Bank transfer (automatic),No
+CUST014,Female,0,13,No,No,DSL,Yes,No,Month-to-month,54.3,683.9,Yes,Mailed check,No
+CUST015,Male,0,7,Yes,No,Fiber optic,Yes,No,Month-to-month,79.85,552.75,Yes,Electronic check,Yes
+CUST016,Female,0,26,No,Yes,DSL,Yes,Yes,One year,65.75,1720.1,No,Credit card (automatic),No
+CUST017,Male,1,60,No,Yes,Fiber optic,Yes,Yes,Two year,110.2,6640.5,No,Bank transfer (automatic),No
+CUST018,Female,0,3,Yes,No,DSL,No,No,Month-to-month,44.9,134.7,Yes,Electronic check,Yes
+CUST019,Male,0,39,No,No,DSL,Yes,No,One year,55.2,2180.2,No,Mailed check,No
+CUST020,Female,0,18,No,Yes,Fiber optic,Yes,No,Month-to-month,92.45,1664.1,Yes,Electronic check,Yes
