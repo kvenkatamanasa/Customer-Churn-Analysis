@@ -1,0 +1,217 @@
+# ============================================================
+
+# Customer Churn Analysis - .gitignore
+
+# ============================================================
+
+# -------------------------
+
+# Operating System
+
+# -------------------------
+
+.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# -------------------------
+
+# Python
+
+# -------------------------
+
+**pycache**/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+
+venv/
+env/
+ENV/
+.venv/
+
+# -------------------------
+
+# Environment & Secrets
+
+# -------------------------
+
+.env
+.env.*
+!.env.example
+
+*.pem
+*.key
+credentials.json
+secrets.json
+
+# -------------------------
+
+# Jupyter Notebook
+
+# -------------------------
+
+.ipynb_checkpoints/
+
+# -------------------------
+
+# Python Testing
+
+# -------------------------
+
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.nox/
+
+# -------------------------
+
+# Python Build Files
+
+# -------------------------
+
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# -------------------------
+
+# Data Science / ML
+
+# -------------------------
+
+*.pkl
+*.pickle
+*.joblib
+*.h5
+*.hdf5
+*.model
+*.pt
+*.pth
+
+# -------------------------
+
+# Temporary / Cache Files
+
+# -------------------------
+
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+*.log
+
+# -------------------------
+
+# VS Code
+
+# -------------------------
+
+.vscode/
+*.code-workspace
+
+# -------------------------
+
+# PyCharm / IntelliJ
+
+# -------------------------
+
+.idea/
+*.iml
+
+# -------------------------
+
+# Power BI
+
+# -------------------------
+
+# Power BI temporary/cache files
+
+*.pbi-tools/
+*.pbi.local/
+.pbi/
+
+# Power BI backup files
+
+*.pbix.bak
+*.pbit.bak
+
+# -------------------------
+
+# Excel Temporary Files
+
+# -------------------------
+
+~$*.xlsx
+~$*.xls
+~$*.xlsm
+~$*.csv
+
+# -------------------------
+
+# Generated Reports / Exports
+
+# -------------------------
+
+exports/
+output/
+outputs/
+reports/
+results/
+
+# -------------------------
+
+# Local Dataset Copies
+
+# -------------------------
+
+# Uncomment these ONLY if you do NOT want to upload datasets
+
+# data/
+
+# datasets/
+
+# *.csv
+
+# *.xlsx
+
+# *.xls
+
+# -------------------------
+
+# IDE / Editor Files
+
+# -------------------------
+
+*.sublime-workspace
+*.sublime-project
+
+# -------------------------
+
+# Project-specific
+
+# -------------------------
+
+temp/
+tmp/
+backup/
+backups/
+
+# -------------------------
+
+# Keep important project files
+
+# -------------------------
+
+!.gitignore
+!README.md
+!requirements.txt
